@@ -7,7 +7,7 @@ THE SYMBOL SUDOKU GAME
 
 ## PURPOSE OF PROJECT:
 This was the final for project for Computer Programming II at North Seattle College.  It utilizes
-## VERSION or DATE: 
+## DATE: 
 Spring 2015
 
 ## HOW TO START THIS PROJECT: 
