@@ -6,7 +6,7 @@
 THE SYMBOL SUDOKU GAME
 
 ## PURPOSE OF PROJECT:
-This was the final for project for Computer Programming II at North Seattle College.  It utilizes
+This was the final for project for Computer Programming II at North Seattle College.  It utilizes MVC design, OOP, and Swing.
 ## DATE: 
 Spring 2015
 
